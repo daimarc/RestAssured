@@ -7,6 +7,21 @@
       <option name="url" value="https://artifactory.sicredi.net/artifactory/libs-release-local" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="sicrediArtifactory releases" />
+      <option name="name" value="Sicredi Artifactory" />
+      <option name="url" value="https://artifactory.sicredi.net/artifactory/libs-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sicrediArtifactory snapshots" />
+      <option name="name" value="Sicredi Artifactory" />
+      <option name="url" value="http://artifactory.sicredi.net/artifactory/libs-snapshot" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Central Repository" />
       <option name="url" value="http://artifactory.sicredi.net/artifactory/repo" />
@@ -25,6 +40,11 @@
       <option name="id" value="sicrediArtifactory-remote" />
       <option name="name" value="Sicredi Artifactory" />
       <option name="url" value="https://artifactory.sicredi.net/artifactory/remote-repos" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sicrediArtifactory remote" />
+      <option name="name" value="Sicredi Artifactory" />
+      <option name="url" value="http://artifactory.sicredi.net/artifactory/remote-repos" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="sicrediArtifactory-snapshots" />
