@@ -6,7 +6,7 @@ import static io.restassured.RestAssured.given;
 
 class APITest {
     @Test
-    void deveBuscarPersonagem(){
+    void deveBuscarPersonagens(){
 
         given()
                 .baseUri("https://jsonplaceholder.typicode.com")
